@@ -1,0 +1,15 @@
+D:\My Coding\C#\Modul Praktikum\Modul Praktikum\bin\Debug\net6.0\Modul Praktikum.exe
+D:\My Coding\C#\Modul Praktikum\Modul Praktikum\bin\Debug\net6.0\Modul Praktikum.deps.json
+D:\My Coding\C#\Modul Praktikum\Modul Praktikum\bin\Debug\net6.0\Modul Praktikum.runtimeconfig.json
+D:\My Coding\C#\Modul Praktikum\Modul Praktikum\bin\Debug\net6.0\Modul Praktikum.dll
+D:\My Coding\C#\Modul Praktikum\Modul Praktikum\bin\Debug\net6.0\Modul Praktikum.pdb
+D:\My Coding\C#\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.csproj.AssemblyReference.cache
+D:\My Coding\C#\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Coding\C#\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.AssemblyInfoInputs.cache
+D:\My Coding\C#\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.AssemblyInfo.cs
+D:\My Coding\C#\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.csproj.CoreCompileInputs.cache
+D:\My Coding\C#\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.dll
+D:\My Coding\C#\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\refint\Modul Praktikum.dll
+D:\My Coding\C#\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.pdb
+D:\My Coding\C#\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\Modul Praktikum.genruntimeconfig.cache
+D:\My Coding\C#\Modul Praktikum\Modul Praktikum\obj\Debug\net6.0\ref\Modul Praktikum.dll
